@@ -1,16 +1,16 @@
-# Roblox Fix Lag System
+# QUOCHUYHUB FIX LAG SYSTEM
 
-Script tăng FPS và giảm hiệu ứng cho game Roblox.
+Roblox Fix Lag Script for games similar to Blox Fruits.
 
 Features:
-- FPS Boost
-- Reduce Particle Effects
-- Optimize Map Parts
-- Skill Effect Optimizer
-- Water Optimization
-- Auto FPS Mode
+- FPS Booster
+- Reduce Skill Effects
+- Reduce Particle
+- Map Optimizer
+- Water Optimizer
 
 How to use:
-Put the script inside StarterPlayerScripts as a LocalScript.
+Put the script inside StarterPlayerScripts in Roblox Studio.
 
-Made for Roblox games similar to Blox Fruits.
+Author:
+Huy01032012
